@@ -1,0 +1,7 @@
+# Python environment and temp files
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
