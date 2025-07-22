@@ -1,0 +1,15 @@
+ Generate Persona
+http://127.0.0.1:8000/generate_persona
+{
+  "website_url": "https://www.abctech.com",
+  "product": "Smart Locks",
+  "region": "South India"
+}
+
+Match Profile
+http://127.0.0.1:8000/match_profile
+{
+  "company_name": "XYZ Pvt Ltd",
+  "product": "Smart Locks",
+  "region": "South India"
+}
